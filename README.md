@@ -12,7 +12,7 @@
 - 📫 How to reach me **hovannhuy0094@gmail.com**
 
 - ⚡ Fun fact **Very open**
-- 👽 My Portfolio: at [https://balsam-warlock-534.notion.site/Hey-there-I-am-Y-1bb6db48e1518026a7e5c25f3773f643]
+- 👽 My Portfolio: at https://balsam-warlock-534.notion.site/Hey-there-I-am-Y-1bb6db48e1518026a7e5c25f3773f643
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
