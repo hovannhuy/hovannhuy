@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Topo_pie
 <h1 align="center">Hi 👋, I'm Ý Hồ</h1>
-<h3 align="center">A passionate Data Analyst and Data Engineer from VietNam</h3>
+<h3 align="center">A passionate Data Analyst and AI Engineer from VietNam</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topo-pie" alt="topo-pie" /></a> </p>
 
